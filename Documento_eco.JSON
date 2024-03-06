@@ -1,0 +1,57 @@
+{
+    "action_code": 1,
+    "country_code": "CL",
+    "invoice_state": "EM",
+    "bill_from_party": {
+        "internal_id": "CL1SCLOC12"
+    },
+    "reference_document_type": "3",
+    "reference_document_code": "3",
+    "number_document_type": "61",
+    "base_business_transaction_document_id": "00000000000000000000000000000002713",
+    "dte_document_type": "61",
+    "dte_document_number": "19541",
+    "invoice_prefix": "X",
+    "dtf_invoice_date": "31-01-2024",
+    "reference_document_id": "2928828",
+    "iva_amount": -199980,
+    "total_amount": -1252506,
+    "total_discount": 0,
+    "dtf_url_pdf": "http://aerosan2402.acepta.com/v01/0046AAC0CF053C3F6CF3177C7D6C5D7205B67587?k=1a830b24b04d83ddad32284257e704cb",
+    "dtf_url_xml": "http://aerosan2402.acepta.com/v01/0046AAC0CF053C3F6CF3177C7D6C5D7205B67587?k=1a830b24b04d83ddad32284257e704cb",
+    "cufe": " ",
+    "payer_party": {
+        "internal_id": "76272345"
+    },
+    "sales_unit": {
+        "internal_id": "CL1"
+    },
+    "usu_id_reg": 0,
+    "buyer_party": {
+        "internal_id": "76272345",
+        "address_on_invoice": " ",
+        "commune_on_invoice": " ",
+        "city_on_invoice": " "
+    },
+    "item_products": [
+     {           
+        "internal_id": "SVCL1020000",
+        "description": "SERVICIO DE TRANSFERENCIA DE CARGA",
+        "quantity": 1,
+        "price_and_tax": {
+            "decimal_value": -1252506,
+            "currency_code": "CLP"
+        },
+        "trm": 0,
+        "group": {
+            "third_id": "X",
+            "price": 0
+        }
+     }
+    ],
+    "dtf_expiration_date": "01-03-2024",
+    "pricing_terms": {
+        "currency_code": "CLP"
+    },
+    "content_text": "DESCUENTO COMERCIAL^48 HRS LIBRES LA ATLAS^SERV. ALMACENAJE^ "
+}
